@@ -1,0 +1,15 @@
+@import "./css/margin.css";
+@import "./css/colors.css";
+@import "./css/link.css";
+
+
+@import "./css/indexcss/experience.css";
+@import "./css/indexcss/about-story-section.css";
+@import "./css/indexcss/seasonal-section.css";
+@import "./css/footer.css";
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+html{
+    scroll-behavior: smooth;
+}

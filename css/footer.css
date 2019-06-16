@@ -1,0 +1,30 @@
+footer.footer{
+    background: #0F2938;
+}
+
+footer.footer > .footer-container > .row  .footer-cols:nth-child(2) p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: .85rem;
+}
+footer.footer > .footer-container > .row  .footer-cols:nth-child(3) > address {
+  font-family: 'Quicksand', sans-serif;
+  font-size: .85rem;
+}
+
+@media (min-width: 576px) {
+    
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
+
+

@@ -1,0 +1,9 @@
+section.about-story > .about-story-container > .row > .about-story-cols:last-child{
+    background-color: rgb(255, 251, 193);
+}
+section.about-story > .about-story-container > .row > .about-story-cols:nth-child(2){
+    background-image: url("../../img/bake.jpg");
+    background-repeat: no-repeat;
+    background-position:center center;
+    object-fit: cover;
+}

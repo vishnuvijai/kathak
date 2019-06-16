@@ -1,0 +1,56 @@
+.bg-plum{
+    background-color: plum;
+}
+.bg-plumlight{
+    background-color: rgb(245, 212, 245);
+}
+.bg-gold{
+    background-color:  rgb(241, 223, 118);
+}
+
+
+.border-gold-noh-1{
+    border:1px solid rgb(241, 223, 118);
+}
+.border-gold-noh-2{
+    border:2px solid rgb(241, 223, 118);
+}
+.border-gold-noh-3{
+    border:3px solid rgb(241, 223, 118);
+}
+
+
+
+
+.border-gold-1{
+    border:1px solid rgb(241, 223, 118);
+}
+.border-gold-1:hover{
+    border:2px solid rgb(241, 223, 118);
+}
+.border-gold-2{
+    border:2px solid rgb(241, 223, 118);
+}
+.border-gold-2:hover{
+    border:3px solid rgb(241, 223, 118);
+}
+.border-gold-3{
+    border:3px solid rgb(241, 223, 118);
+}
+.border-gold-3:hover{
+    border:3.5px solid rgb(241, 223, 118);
+}
+
+
+.text-gold{
+    color:rgb(241, 223, 118);
+}
+.text-brown{
+    color:brown;
+}
+.text-darkbrown{
+    color:rgb(141, 77, 77);
+}
+.text-burlywood{
+    color:burlywood;
+}
